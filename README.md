@@ -1,12 +1,18 @@
-# discord.js-ModerationBot
-ModerationBot V1 is a simple moderation bot with all basics commands that a bot needs!! This is the First version of this bot and the bot gets updated with new version every month!! So make sure to follow me on **[GitHub](https://github.com/drstrangegithub)** for latest updates!!
+# Doggie
+Doggie is a new discord bot that is used for moderation and fun!
+We offer commands such as
+- kick
+- ban
+- meme
+- warn
+- ascii
+- user info
+- and more!
 
-# Setup
-Import the project into repl.it and then fill out your bot token in config.js file.. Then type npm install in the console and let repl.it install all the packages..
-Next after everything is complete run the bot and the bot will come online!! Yes, it's that easy!!
+# Invite
+To invite Doggie to your discord server, click this link and follow the steps!
+https://discord.com/api/oauth2/authorize?client_id=898978346229198849&permissions=0&scope=bot%20applications.commands
 
-# Video setup guide
-Check out this **[Video](https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g)**
-And if you want more easy bot tutorials Subscribe to the **[CHANNEL](https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g)** it will support me a lot!!
 
-**Thanks for Choosing MODERATION.V1**
+
+![57b6d3e2605961299c22b76b1f703cdb](https://user-images.githubusercontent.com/70786858/137606673-887bfbff-3565-4b4b-9531-23dfd2af2e02.png)
